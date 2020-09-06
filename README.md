@@ -9,8 +9,8 @@ There is also timer in the header that displays the current time and date.
 ## Web Link
 Visit deplyed project at:
 
-![](Develop/images/WorkdayScheduler-SS3.png)
+![](Develop/images/WorkdayScheduler-SS1.png)
 
-![](Develop/images/WorkdayScheduler-SS3.png)
+![](Develop/images/WorkdayScheduler-SS2.png)
 
 ![](Develop/images/WorkdayScheduler-SS3.png)
