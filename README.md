@@ -7,7 +7,7 @@ The application runs in the browser and is color coded to the current time of da
 There is also timer in the header that displays the current time and date. 
 
 ## Web Link
-Visit deplyed project at:https://aken00.github.io/Calendar-app-ak/
+Visit deplyed project at:https://Alexanderkeny10.github.io/Calendar-app-ak/
 
 ![](images/WorkdayScheduler-SS1.png)
 
